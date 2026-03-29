@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/JRF.iml" filepath="$PROJECT_DIR$/JRF.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Normal Revision.iml" filepath="$PROJECT_DIR$/Normal Revision.iml" />
+>>>>>>> 50bdcd77ed32f7d89c1aaa0987b12b3f05f4c22c
+    </modules>
+  </component>
+</project>
